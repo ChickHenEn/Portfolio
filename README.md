@@ -9,7 +9,7 @@ I can guarantee to work efficiently and optimally with what I create. I take the
 
 # Some Of My Strengths
 
-https://placehold.it/150/ffffff/ff0000?text=hello
+
 ###  UI Interface design.
 I have a lot of experience with making fluid, and high quality UI design that is optimized and tailored to your games needs.
 ### Adaptability
