@@ -8,7 +8,15 @@ Hello I’m ChickHenEn! I have been scripting since 2018, and I am a very dedica
 I can guarantee to work efficiently and optimally with what I create. I take the stretch to be as organized as possible, as I believe that keeping a project organized helps with total development production and the changes of what I make. I work cooperatively in a team, and I can provide more then just scripting power to the table. I have some experience in building, UI design, game design, game formatting and more.
 
 # Some Of My Strengths
-### UI Interface design.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+
+###  @@ UI Interface design.
 I have a lot of experience with making fluid, and high quality UI design that is optimized and tailored to your games needs.
 ### Adaptability
 I can switch my coding style to fit with many scripting structures, and efficiently target bugs and errors.
@@ -18,10 +26,10 @@ I have a lot of time on my hands, therefore I can guarantee to get your commissi
 while scripting is my major, I have a whole lot of experience in many other tasks. This includes UI design, interface, building, even modeling.
 ### Efficiency
 Overtime, I have developed the skill of working, FAST. I can complete commissions with light speed, while retaining optimization, and satisfactory results. my average wpm is 155 paired with quick witts i can guarantee fast returns.
-
+```
 
 I am open majority of the time, so please necer feel pressured to ask me for a request!
-$${\color{testt}Blue}$$
+
 # Examples of WORK:
 Examples of work are provided below, however I have more on request.
 
