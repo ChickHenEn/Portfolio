@@ -9,12 +9,6 @@ I can guarantee to work efficiently and optimally with what I create. I take the
 
 # Some Of My Strengths
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 
 ###  @@ UI Interface design.
 I have a lot of experience with making fluid, and high quality UI design that is optimized and tailored to your games needs.
@@ -26,7 +20,7 @@ I have a lot of time on my hands, therefore I can guarantee to get your commissi
 while scripting is my major, I have a whole lot of experience in many other tasks. This includes UI design, interface, building, even modeling.
 ### Efficiency
 Overtime, I have developed the skill of working, FAST. I can complete commissions with light speed, while retaining optimization, and satisfactory results. my average wpm is 155 paired with quick witts i can guarantee fast returns.
-```
+
 
 I am open majority of the time, so please necer feel pressured to ask me for a request!
 
