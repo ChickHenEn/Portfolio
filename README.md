@@ -27,15 +27,15 @@ I am open majority of the time, so please necer feel pressured to ask me for a r
 # Examples of WORK:
 Examples of work are provided below, however I have more on request.
 
-<a href="https://drive.google.com/file/d/1Zh-fEqYxi2ZT9cxB1IkCN7is1mtW6ehy/view">Inventory System, entirelly created by me, with test sword combat, and skill move</a>
+<a href="https://www.youtube.com/watch?v=iebpK9fXOCM&feature=youtu.be">Inventory System, entirelly created by me, with test sword combat, and skill move</a>
 
-<a href="https://drive.google.com/file/d/1gjyxq8Czqxend1ORZxEZsIogW18kChmB/view">Some UI work</a>
+<a href="https://www.youtube.com/watch?v=4d6sbP2w030&feature=youtu.be">Some UI work</a>
 
-<a href="https://drive.google.com/file/d/1GkRGK7GY_Heq09LEwvSQCBxnz7wo2RGp/view">Combat move, with Bézier curve's.</a>
+<a href="https://www.youtube.com/watch?v=govvJ--nfIw&feature=youtu.be">Combat move, with Bézier curve's.</a>
 
-<a href="https://drive.google.com/file/d/1SKsJiQOgaoorYTFLD4oPdhh5CY_BTjyl/view?usp=sharing">Animation that I created and scripted.</a>
+<a href="https://www.youtube.com/watch?v=ShK1Ds1GT2s&feature=youtu.be">Animation that I created and scripted.</a>
 
-<a href="https://drive.google.com/file/d/17swWh9rH-lSgmlus1XZpQ6-Ht8LceYC_/view?usp=sharing">Animation that I created and scripted 2.</a>
+<a href="https://www.youtube.com/watch?v=pjxEjgjC5kA">Animation that I created and scripted 2.</a>
 
 ##### **MORE EXAMPLES OF WORK ARE PROVIDED WHEN ASKED, IF YOU NEED ANYMORE PLEASE HIT ME UP!** 
 
