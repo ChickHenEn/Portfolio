@@ -1,4 +1,4 @@
-# ChickHenEn's Portfolio
+# ChickHenEn's Portfolio.
 
 Hello, Im ChickHenEn! Ive been scripting for almost five years, and I am a very ambitious scripter.
 
